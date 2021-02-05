@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/OU_CLion_Git.dir/main.cpp.o  -o OU_CLion_Git 
